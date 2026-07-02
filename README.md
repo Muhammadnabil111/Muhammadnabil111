@@ -10,25 +10,23 @@
 ### 🛰️ Mission Log
 As a UI and web designer, I enjoy exploring the vast expanse of design and code, building efficient systems, and mapping out solutions—sometimes literally, through spatial technology.
 
-- 🔭 Currently developing **Web GIS App for Dept. of Housing** and designing **engaging web themed visual interfaces**
-- 🌍 Deeply interested in the intersection of **UI/UX Aesthetics**, **Web Development**, and **Spatial Data (GIS)**
+- 🔭 Currently developing **Web GIS App for Dept. of Housing** and designing **Web GIS themed visual interfaces**
+- 🌍 Deeply interested in the intersection of **UI/UX**, **Web Development**, and **Spatial Data (GIS)**
 - 🌱 Currently diving deeper into **Advanced PostGIS**, **React** architecture, and **Digital Design**
 - 💬 Always open to discuss **PHP, PostgreSQL, spatial mapping, or creative UI concepts**
-- 📫 Comms channel: **[https://www.linkedin.com/in/muhammad-nabiel/]**
+- 📫 Comms channel: **[ngastag@gmail.com]**
 
 ---
 
 ### 🌌 Tech Constellation
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,react,js,mysql,postgres,git,github,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,adobexd,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 
 ---
 
-### 📊 Telemetry Data
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF&title_color=58A6FF" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=58A6FF" width="300" alt="Core Systems" />
 </div>
