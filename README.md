@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="" width="100%" alt="Earth from Space">
   <br>
   <h1>Hi there, I'm Bill [Nashton] 🧑‍🚀</h1>
   <p><i>"Mankind was born on Earth. It was never meant to die here." — Interstellar</i></p>
@@ -17,8 +16,9 @@ As a UI and web designer, I enjoy exploring the vast expanse of design and code,
 - 📫 Comms channel: **[ngastag@gmail.com]**
 
 ---
+
+<p align="center">### 🌌 Tech Constellation</p>
 <p align="center">
-### 🌌 Tech Constellation
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,xd,vscode&theme=dark" alt="My Skills" />
   </a>
