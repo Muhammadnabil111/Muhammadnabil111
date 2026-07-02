@@ -21,18 +21,18 @@ As a UI and web designer, I enjoy exploring the vast expanse of design and code,
 ### 🌌 Tech Constellation
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,xd,framer,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,xd,claude,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Mission Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammadnabil111&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Mission Trophies" />
 </div>
 
 ---
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=RADAR+PING+(VIEWS)&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammadnabil111&label=RADAR+PING+(VIEWS)&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </div>
