@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <h1>Hi there, I'm Bill [Nashton] 🧑‍🚀</h1>
-  <p><i>"Mankind was born on Earth. It was never meant to die here." — Interstellar</i></p>
+  <p><i>I'd Design and Coding, but mostly design things</i></p>
 </div>
 
 ---
@@ -29,3 +29,7 @@ As a UI and web designer, I enjoy exploring the vast expanse of design and code,
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Muhammadnabil111&label=RADAR+PING+(VIEWS)&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </div>
+
+---
+
+ <p><i>"Mankind was born on Earth. It was never meant to die here." — Interstellar</i></p>
