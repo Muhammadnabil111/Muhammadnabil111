@@ -21,12 +21,15 @@ As a UI and web designer, I enjoy exploring the vast expanse of design and code,
 ### 🌌 Tech Constellation
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,adobexd,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,xd,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=58A6FF" width="300" alt="Core Systems" />
+  <a href="https://spotify.com">
+    <!-- Menggunakan Novatimo Spotify Readme -->
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatimo&bar_color=58A6FF&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
 </div>
