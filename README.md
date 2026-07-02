@@ -17,8 +17,8 @@ As a UI and web designer, I enjoy exploring the vast expanse of design and code,
 
 ---
 
-<p align="center">### 🌌 Tech Constellation</p>
-<p align="center">
+### 🌌 Tech Constellation
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,xd,vscode&theme=dark" alt="My Skills" />
   </a>
