@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/QvBoYN68Kz0tO/giphy.gif" width="100%" alt="Space Banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=System+Online...;Establishing+Connection...;Welcome+to+the+Workspace+🧑‍🚀" alt="Typing SVG" />
   <br>
   <h1>Hi there, I'm Bill [Nashton] 🧑‍🚀</h1>
   <p><i>"Mankind was born on Earth. It was never meant to die here." — Interstellar</i></p>
@@ -21,15 +21,18 @@ As a UI and web designer, I enjoy exploring the vast expanse of design and code,
 ### 🌌 Tech Constellation
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,xd,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,xd,framer,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <a href="https://spotify.com">
-    <!-- Menggunakan Novatimo Spotify Readme -->
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatimo&bar_color=58A6FF&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Mission Trophies" />
+</div>
+
+---
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=RADAR+PING+(VIEWS)&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </div>
