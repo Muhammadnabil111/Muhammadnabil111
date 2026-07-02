@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=System+Online...;Establishing+Connection...;Welcome+to+the+Workspace+🧑‍🚀" alt="Typing SVG" />
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Earth from Space">
   <br>
   <h1>Hi there, I'm Bill [Nashton] 🧑‍🚀</h1>
   <p><i>"Mankind was born on Earth. It was never meant to die here." — Interstellar</i></p>
@@ -12,8 +12,8 @@ As a UI and web designer, I enjoy exploring the vast expanse of design and code,
 
 - 🔭 Currently developing **Web GIS App for Dept. of Housing** and designing **Web GIS themed visual interfaces**
 - 🌍 Deeply interested in the intersection of **UI/UX**, **Web Development**, and **Spatial Data (GIS)**
-- 🌱 Currently diving deeper into **Advanced PostGIS**, **React** architecture, and **Digital Design**
-- 💬 Always open to discuss **PHP, PostgreSQL, spatial mapping, or creative UI concepts**
+- 🌱 Currently diving deeper into **Advanced PostGIS**, **Svelte** architecture, and **Digital Design**
+- 💬 Always open to discuss **Svelte, PostgreSQL, spatial mapping, or creative UI concepts**
 - 📫 Comms channel: **[ngastag@gmail.com]**
 
 ---
@@ -21,7 +21,7 @@ As a UI and web designer, I enjoy exploring the vast expanse of design and code,
 ### 🌌 Tech Constellation
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,xd,claude,vscode&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,xd,vscode&theme=dark" alt="My Skills" />
   </a>
 </p>
 
