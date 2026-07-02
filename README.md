@@ -1,7 +1,7 @@
 <div align="center">
   <br>
-  <h1>Hi there, I'm Bill [Nashton] 🧑‍🚀</h1>
-  <p><i>I'd Design and Coding, but mostly design things</i></p>
+  <h1>Hi there, I'm Bill [Nashton] 👋</h1>
+  <p><i>I'd Design and Coding, but mostly the design part</i></p>
 </div>
 
 ---
@@ -32,4 +32,4 @@ As a UI and web designer, I enjoy exploring the vast expanse of design and code,
 
 ---
 
- <p><i>"Mankind was born on Earth. It was never meant to die here." — Interstellar</i></p>
+<div align="center"> <p><i>"Mankind was born on Earth. It was never meant to die here." — Interstellar</i></p> </div>
