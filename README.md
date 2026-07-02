@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h1>Hi there, I'm Bill Nashton 👋</h1>
+  <h1>Hi there, I'm Bill [Nashton] 👋</h1>
   <p><i>I design and code, but my heart is mostly in the design.</i></p>
 </div>
 
@@ -18,7 +18,7 @@ As a UI and web designer, I enjoy exploring the vast expanse of design and code,
 ---
 
 ### 🌌 Tech Constellation
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,html,svelte,js,mysql,postgres,git,github,figma,xd,vscode&theme=dark" alt="My Skills" />
   </a>
@@ -26,7 +26,7 @@ As a UI and web designer, I enjoy exploring the vast expanse of design and code,
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=Muhammadnabil111&label=RADAR+PING+(VIEWS)&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
